@@ -1,7 +1,6 @@
 import { io } from "socket.io-client"
 import { useEffect, useState } from "react"
-
-const SOCKET_SERVER_URI = "http://192.168.2.165:8000"
+import { SOCKET_SERVER_URI } from "../constants"
 
 export default function useSocket() {
 	const [socket, setSocket] = useState()
