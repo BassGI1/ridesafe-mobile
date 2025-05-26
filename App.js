@@ -1,4 +1,4 @@
-import { Image, StyleSheet, View } from "react-native"
+import { StyleSheet, View } from "react-native"
 import useSocket from "./hooks/useSocket"
 import { useEffect, useState } from "react"
 import WebView from "react-native-webview"

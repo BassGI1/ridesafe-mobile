@@ -14,7 +14,8 @@
     "react": "19.0.0",
     "react-native": "0.79.2",
     "react-native-webview": "^13.13.5",
-    "socket.io-client": "^4.8.1"
+    "socket.io-client": "^4.8.1",
+    "expo-brightness": "~13.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
